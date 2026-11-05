@@ -1,0 +1,39 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node
+node_modules/
+.next/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+node_modules/
+.next/
+.env
+.env.local
+
+.terraform/
+*.tfstate
+*.tfstate.*
+.idea/
+*.iml
+*.eml
+.project
+.classpath
